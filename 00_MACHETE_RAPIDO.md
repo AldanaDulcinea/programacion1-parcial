@@ -1,4 +1,4 @@
-# 00 — Machete rápido
+# 00 — Resumen
 
 ## Sintaxis mínima
 
