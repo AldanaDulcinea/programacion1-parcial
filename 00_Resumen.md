@@ -2,6 +2,11 @@
 
 ## Sintaxis mínima
 
+
+return = devuelve un valor desde una función
+= = guarda/asigna ese valor a una variable
+print() = lo muestra en pantalla
+
 ```python
 x = 5          # asignación
 x == 5         # comparación
